@@ -1,0 +1,12 @@
+.Slide {
+	width: 80%;
+	display: block;
+	margin: 0px auto;
+
+	&__img {
+		object-position: left top;
+		object-fit: cover;
+		width: 100%;
+		height: 500px;
+	}
+}

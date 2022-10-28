@@ -1,0 +1,19 @@
+.cart {
+	margin-top: 40px;
+
+	&__title {
+		font-weight: 700;
+		font-size: 25px;
+		line-height: 32px;
+		color: #1D1818;
+		margin-bottom: 20px;
+	}
+
+	// &__products {}
+}
+
+.finalSum {
+	font-weight: 700;
+	font-size: 22px;
+	margin-top: 40px;
+}
